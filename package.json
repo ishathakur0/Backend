@@ -11,5 +11,8 @@
     "backend"
   ],
   "author": "Isha Thakur",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
 }
